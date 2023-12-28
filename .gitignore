@@ -1,0 +1,9 @@
+.idea
+.vscode
+
+target/
+.ivy
+
+derby.log
+metastore_db
+spark-warehouse
